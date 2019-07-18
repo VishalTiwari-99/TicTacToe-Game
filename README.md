@@ -1,2 +1,2 @@
 # TicTacToe-Game
-A very basic game in python3  
+A very basic cmd game in python3 
